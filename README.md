@@ -5,6 +5,7 @@ Daily C programming problem solving and logic building practice.
 This repository contains my daily practice programs in C language.
 
 ## Topics Covered
+- Conditional statements
 - Loop problems
 - Number logic (Palindrome, Armstrong, Reverse, Sum of digits)
 - Pattern printing(coming soon)
